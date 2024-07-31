@@ -1,0 +1,18 @@
+.bg-orange-red{
+    background-color: orangered !important;
+} 
+.bg-orange{
+    background-color: orange !important;
+}
+.btn-primary{
+    background-color: orange !important;
+}
+.btn-primary:hover{
+    background-color: orangered !important;
+}
+.btn-light:hover{
+    background-color: orange !important;
+}
+.text-orange:hover{
+    color: orange !important;
+}
